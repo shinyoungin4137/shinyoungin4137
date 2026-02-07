@@ -38,10 +38,6 @@ I focus on solving real-world problems by integrating AI models into scalable se
 > Developed an Android application and Backend API to detect financial fraud (Smishing) in real-time.
 > Implemented a **RESTful API** on **AWS EC2** to analyze SMS patterns and alert users of potential threats.
 
-#### 3. 📈 AI-based Auto Trading Bot
-**`Quant`** **`Data Analysis`**
-> Built a 24/7 automated stock trading bot using **LSTM models** for time-series prediction.
-> Deployed on **AWS Cloud** with automated risk management logic (MDD control).
 
 ---
 
