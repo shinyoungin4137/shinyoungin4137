@@ -38,11 +38,3 @@ I focus on solving real-world problems by integrating AI models into scalable se
 > Developed an Android application and Backend API to detect financial fraud (Smishing) in real-time.
 > Implemented a **RESTful API** on **AWS EC2** to analyze SMS patterns and alert users of potential threats.
 
-
----
-
-### 📊 Github Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shinyoungin4137&show_icons=true&theme=radical" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinyoungin4137&layout=compact&theme=radical" height="150" alt="languages graph" />
-</div>
