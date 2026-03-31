@@ -8,7 +8,7 @@ I focus on solving real-world problems by integrating AI models into scalable se
 
 - 🔭 I’m currently working on **Quant Trading Algorithms & Cloud Deployment**
 - 🌱 I’m currently learning **Advanced NLP (Transformers)** and **DevSecOps**
-- 📧 Contact: shinyoungin4137@naver.com
+- 📧 Contact: shinyoungin4137@gmail.com
 
 ---
 
